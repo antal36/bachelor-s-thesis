@@ -24,7 +24,7 @@ Many modern applications involve datasets so large that full‐sample analysis b
 
 ### Prerequisites
 
-- Python 3.8 or higher  
+- Python 3.10 or higher  
 - [NumPy](https://numpy.org/)  
 - [SciPy](https://scipy.org/)  
 - [pandas](https://pandas.pydata.org/)  
